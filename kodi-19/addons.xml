@@ -3,7 +3,7 @@
 <addon id="plugin.video.kpiclive"
 	   version="1.0.2"
 	   name="Korea Olympic Live"
-	   provider-name="Project_DH">
+	   provider-name="sonami">
 <requires>
   <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" version="2.22.0"/>
